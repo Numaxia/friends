@@ -51,6 +51,6 @@
 ### 如何交换友链
 
 - 在 GitHub 上 `Fork` 此仓库
-- 按照以上格式在 `src/links.yml` 文件末尾新增你的信息（最末尾留一个空行）
+- 按照以上格式在 `links.json` 文件`]`前新增你的信息
 - 完成后，新建 `Pull Request`
 - 当 `Pull Request` 被合并后，请尽快于您的站点添加本站友链，您的站点将在 10 分钟内显示在[友人帐](https://numaxia.gitee.io/links/)里
