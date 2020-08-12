@@ -1,17 +1,11 @@
 [
-{
-"url":"https://yumesama.cn",
-"avatar":"https://cdn.jsdelivr.net/gh/ZHANGYANG980313/cdn@1.5.1/img/custom/avatar.jpg",
-"name":"YumeSama",
-"blog":"ゆめ Yume",
-"desc":"「技美大佬」",
-"color":"deepskyblue"
-},{
-"url":"https://5ime.cn/",
-"avatar":"https://blog-1252493876.file.myqcloud.com/avatar.jpg",
-"name":"I Am I",
-"blog":"Hi, I Am I",
-"desc":"Hello,world. l'm coming.",
-"color":"#90A6BC"
-}
+    {
+      "url":"https://numaxia.gitee.io/",
+      "avatar":"https://gitee.com/numaxia/images_bed/raw/master/img/logo.png",
+      "name":"友自须愔",
+      "blog":"Numaxia's Blog",
+      "desc":"我思故我在",
+      "email":"numaxia@163.com",
+      "color":"#000000"
+    }
 ]
