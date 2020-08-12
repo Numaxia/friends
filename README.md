@@ -1,4 +1,3 @@
-# friends
 ## 友链说明
 
 如果您想和咱交换友链，还请阅读一下内容。谢谢配合～
@@ -28,14 +27,15 @@
 ### 格式
 
 ```yml
-- url: https://www.yunyoujun.cn
-  avatar: https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io/images/avatar.jpg
-  name: 云游君
-  blog: 云游君的小站
-  desc: 希望能成为一个有趣的人。
-  # Or: All at sea.
-  email: me@yunyoujun.cn
-  color: "#0078e7"
+,{/*逗号看情况需要*/
+"url":"https://numaxia.gitee.io/",
+"avatar":"https://gitee.com/numaxia/images_bed/raw/master/img/logo.png",
+"name":"友自须愔",
+"blog":"Numaxia's Blog",
+"desc":"我思故我在",
+"email":"numaxia@163.com"
+"color":"#90A6BC"
+}
 ```
 
 - `url`: 博客链接
