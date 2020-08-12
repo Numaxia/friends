@@ -1,4 +1,6 @@
-[{"url":"https://yumesama.cn",
+[
+{
+"url":"https://yumesama.cn",
 "avatar":"https://cdn.jsdelivr.net/gh/ZHANGYANG980313/cdn@1.5.1/img/custom/avatar.jpg",
 "name":"YumeSama",
 "blog":"ゆめ Yume",
@@ -8,5 +10,8 @@
 "url":"https://5ime.cn/",
 "avatar":"https://blog-1252493876.file.myqcloud.com/avatar.jpg",
 "name":"I Am I",
-"blog":"Hi, I Am I","desc":"Hello,world. l'm coming.","color":"#90A6BC"
-}]
+"blog":"Hi, I Am I",
+"desc":"Hello,world. l'm coming.",
+"color":"#90A6BC"
+}
+]
