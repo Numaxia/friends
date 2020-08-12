@@ -29,6 +29,7 @@
 ### 格式
 
 ```json
+[
     {
       "url":"https://numaxia.gitee.io/",
       "avatar":"https://gitee.com/numaxia/images_bed/raw/master/img/logo.png",
@@ -37,7 +38,12 @@
       "desc":"我思故我在",
       "email":"numaxia@163.com",
       "color":"#000000"
+    },{
+    /*按上面的格式填写*/
+    },{
+    /*按上面的格式填写*/
     }
+]
 ```
 
 - `url`: 博客链接
