@@ -28,16 +28,16 @@
 
 ### 格式
 
-```yml
-,{/*逗号看情况需要*/
-"url":"https://numaxia.gitee.io/",
-"avatar":"https://gitee.com/numaxia/images_bed/raw/master/img/logo.png",
-"name":"友自须愔",
-"blog":"Numaxia's Blog",
-"desc":"我思故我在",
-"email":"numaxia@163.com"
-"color":"#000000"
-}
+```json
+    {
+      "url":"https://numaxia.gitee.io/",
+      "avatar":"https://gitee.com/numaxia/images_bed/raw/master/img/logo.png",
+      "name":"友自须愔",
+      "blog":"Numaxia's Blog",
+      "desc":"我思故我在",
+      "email":"numaxia@163.com",
+      "color":"#000000"
+    }
 ```
 
 - `url`: 博客链接
