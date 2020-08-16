@@ -58,4 +58,4 @@
 - 完成后，新建 `Pull Request`
 - 当 `Pull Request` 被合并后，请尽快于您的站点添加本站友链，您的站点将在 10 分钟内显示在[云游君的小伙伴](https://numaxia.gitee.io/links/)里。
 
-注：此仓库源码来自[云游君](https://www.yunyoujun.cn)
+注：此仓库源码来自[云游君](https://www.yunyoujun.cn)(懒癌发作)
