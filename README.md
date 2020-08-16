@@ -1,5 +1,7 @@
 # [友人帐](https://numaxia.gitee.io/links/)
 
+[![Numaxia Friends](https://github.com/Numaxia/links/workflows/Numaxia%20Friends/badge.svg)](https://numaxia.gitee.io)
+
 ## 友链说明
 
 如果您想和咱交换友链，还请阅读一下内容。谢谢配合～
@@ -28,24 +30,16 @@
 
 ### 格式
 
-```json
-[
-    {
-      "url":"https://numaxia.gitee.io/",
-      "avatar":"https://gitee.com/numaxia/images_bed/raw/master/img/logo.png",
-      "name":"友自须愔",
-      "blog":"Numaxia's Blog",
-      "desc":"我思故我在",
-      "email":"numaxia@163.com",
-      "color":"#000000"
-    },{
-#按上面的格式填写
-    },{
-#按上面的格式填写
-    }
-]
+```yml
+- url: https://www.yunyoujun.cn
+  avatar: https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io/images/avatar.jpg
+  name: 云游君
+  blog: 云游君的小站
+  desc: 希望能成为一个有趣的人。
+  # Or: All at sea.
+  email: me@yunyoujun.cn
+  color: "#0078e7"
 ```
-除了所填内容，其余皆为英文字符
 
 - `url`: 博客链接
 - `avatar`: 头像图片链接，须使用 HTTPS（须为正方形或圆形），在保证清晰度的前提下，越小越利于迅速加载展示哦～
@@ -55,9 +49,13 @@
 - `email`: 联系方式，请提供你可以公开的邮箱地址以方便联系。
 - `color`: 喜欢的颜色（没有填的话，默认是灰色 `gray` ！）
 
+如果你的文本存在特殊字符时，请使用双引号包裹。（譬如颜色须使用 `"#000000"`，而不是直接 `#000000`。）
+
 ### 如何交换友链
 
 - 在 GitHub 上 `Fork` 此仓库
-- 按照以上格式在 `links.json` 文件中新增你的信息
+- 按照以上格式在 `src/links.yml` 文件末尾新增你的信息（最末尾留一个空行）
 - 完成后，新建 `Pull Request`
-- 当 `Pull Request` 被合并后，请尽快于您的站点添加本站友链，您的站点将在 10 分钟内显示在[友人帐](https://numaxia.gitee.io/links/)里
+- 当 `Pull Request` 被合并后，请尽快于您的站点添加本站友链，您的站点将在 10 分钟内显示在[云游君的小伙伴](https://numaxia.gitee.io/links/)里。
+
+注：此仓库源码来自[云游君](www.yunyoujun.cn)
