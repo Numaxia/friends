@@ -1,6 +1,14 @@
-- url: https://yumesama.cn
-  avatar: https://cdn.jsdelivr.net/gh/ZHANGYANG980313/cdn@1.5.1/img/custom/avatar.jpg
-  name: YumeSama
-  blog: ゆめ Yume
+- url: https://dwd.moe/
+  avatar: https://cdn.jsdelivr.net/gh/bhaoo/Bhao-s-Blog@latest/logo.jpg
+  name: Bhao
+  blog: Bhao's Blog
   desc: 「技美大佬」
-  color: deepskyblue
+  email: i@bhao.top
+  color: black
+- url: https://www.yunyoujun.cn
+  avatar: https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io/images/avatar.jpg
+  name: 云游君
+  blog: 云游君的小站
+  desc: 希望能成为一个有趣的人。
+  email: me@yunyoujun.cn
+  color: "#0078e7"
