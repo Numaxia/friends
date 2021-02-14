@@ -1,6 +1,6 @@
-# [友人帐](https://numaxia.gitee.io/links/)
+# [友人帐](https://www.numaxia.cn/links/)
 
-[![Numaxia Friends](https://github.com/Numaxia/links/workflows/Numaxia%20Friends/badge.svg)](https://numaxia.gitee.io)
+[![Numaxia Friends](https://github.com/Numaxia/links/workflows/Numaxia%20Friends/badge.svg)](https://www.numaxia.cn)
 
 ## 友链说明
 
@@ -31,13 +31,13 @@
 ### 格式
 
 ```yml
-- url: https://www.yunyoujun.cn
-  avatar: https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io/images/avatar.jpg
-  name: 云游君
-  blog: 云游君的小站
-  desc: 希望能成为一个有趣的人。
+- url: https://www.numaxia.cn
+  avatar: https://www.numaxia.cn/images/avatar.svg
+  name: 友自须愔
+  blog: 云浮生
+  desc: 我思故我在
   # Or: All at sea.
-  email: me@yunyoujun.cn
+  email: numaxia@163.com
   color: "#0078e7"
 ```
 
@@ -56,6 +56,6 @@
 - 在 GitHub 上 `Fork` 此仓库
 - 按照以上格式在 `src/links.yml` 文件末尾新增你的信息（最末尾留一个空行）
 - 完成后，新建 `Pull Request`
-- 当 `Pull Request` 被合并后，请尽快于您的站点添加本站友链，您的站点将在 10 分钟内显示在[云游君的小伙伴](https://numaxia.gitee.io/links/)里。
+- 当 `Pull Request` 被合并后，请尽快于您的站点添加本站友链，您的站点将在 10 分钟内显示在[须愔的小伙伴](https://www.numaxia.cn/links/)里。
 
 注：此仓库源码来自[云游君](https://www.yunyoujun.cn)(懒癌发作)
